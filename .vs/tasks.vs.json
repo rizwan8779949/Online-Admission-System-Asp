@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-UAS",
+      "appliesTo": "data base/UAS.bak",
+      "type": "launch"
+    }
+  ]
+}
